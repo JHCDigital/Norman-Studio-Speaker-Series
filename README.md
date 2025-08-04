@@ -1,2 +1,4 @@
+<param ve-config title="Norman Studio" author="JHC Archives" layout="vertical"
 # Norman-Studio-Speaker-Series
-The Jacksonville History Center hosts a dynamic monthly lecture series featuring a wide range of historical topics and engaging presenters. Speakers include historians, dramatists, subject-matter experts, and artists, offering fresh insights and compelling perspectives on North Florida history and beyond. 
+  
+Norman Studios, also known as Norman Film Manufacturing Company is a former American film studio in Jacksonville, Florida. Founded by Richard Edward Norman, the studio produced silent films featuring African-American casts from 1919 to 1928. Norman's films featured all-black casts with protagonists in positive roles. During its run it produced eight feature length films and numerous shorts; its only surviving film, The Flying Ace, has been restored by the Library of Congress. The studio transitioned to distribution and promotion after the rise of talking pictures made its technology obsolete, and eventually closed. In the 21st century, the studio's facilities were restored and re-purposed as a museum.
