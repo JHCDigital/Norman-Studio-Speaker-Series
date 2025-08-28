@@ -79,7 +79,7 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
 
 # Gallery
 
-.ve-carousel navigation caption="Photos from the Speaker Series" aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+.ve-carousel navigation aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
     - gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introduces the Speaker Series event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy stands behind the refreshments table." fit=cover
     - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographs the event."
