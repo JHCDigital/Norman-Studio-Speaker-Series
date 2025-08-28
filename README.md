@@ -1,7 +1,7 @@
 .ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum" gh:JHCDigital/Norman-Studio-Speaker-Series/image006.jpg width=80% full sticky
 
 ## Introducing the Speaker
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3957.JPG caption="Jim Kerkhoff speaks to the audience." left width=100%
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3957.JPG caption="Jim Kerkhoff giving his presentation." left width=100%
 
 Jim Kerkhoff is an Emmy-winning writer-producer-director, who moved here to Jacksonville from Washington, D.C., following his retirement in 2021. Being a life-long film historian, he immediately got involved with the [Norman Studios Silent Film Museum](https://normanstudios.org/) where he currently serves on its board of directors. Over the years, Jim has made numerous presentations detailing his research into film history at the Library of Congress, American Film Institute, and New York Public Library for the Performing Arts at Lincoln Center. He’s also contributed to many publications written by fellow film historians, and just recently authored his own book titled "[HOMETOWN TINSEL](https://www.split-reel.com/store/p23/HOMETOWN_TINSEL%3A_The_Life%2C_Career%2C_and_Friendships_of_Virginia_Karns.html#/)."  Jim is now researching a second book that explores silent film-era locations in and around Jacksonville, and is amazed at what he's discovering about our city as it's reflected in films made here more than a century ago.
  
@@ -27,10 +27,12 @@ Despite the initial welcoming attitude Jacksonville had for the studios, tension
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic%202-1.png right width=70% caption="Bridge broken during filming on the Ortega Bridge."
 
 ## Norman Studios
-.ve-media wc:Black_Gold_poster.JPG left width=80% caption="Black Gold Poster, 1928"
+
+.ve-carousel navigation aspect-ratio=8/8 fit=contain orientation=horizonal slides-per-page=1 slides-per-move=1 left
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/flying%20ace%20-2.jpg  "The Flying Ace Poster, 1926."
+	- wc:Black_Gold_poster.JPG caption="Black Gold Poster, 1928"
 
 The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) which was years after the film industry's heyday in Jacksonville. Norman began producing silent films that starred all-Black casts in positive, empowered roles. This approach directly contrasted with the film standard of casting Black actors as side characters or stereotypes of the Jim Crow Era. Because it was such a tumultuous time, the impact of his work shaped not only societal expectations but also standards for the future film industry. Norman Studios contributed to the city’s cultural identity and carved out a prolific place in cinematic history. He came out with several shorts and eight films, most notably ["The Flying Ace"](https://en.wikisource.org/wiki/The_Flying_Ace)  and "Black Gold". Today, the original location of Norman Studios has been transformed into the Norman Studios Silent Film Museum and remains the only standing studio from Jacksonville's early filmmaking period. Now, the museum is an all-volunteer nonprofit organization that continually strives to preserve, present and promote the history of silent movies and race films in Northeast Florida.
-
 
 ## Urban Expansion
 Click on the markers to see what some of the most prevalent film studio locations are today.
@@ -51,12 +53,12 @@ Click on the markers to see what some of the most prevalent film studio location
 
 ## Ups and Downs
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3963.JPG right caption="Audience watches *Ups and Downs* silent film at Old St. Andrews.s"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3963.JPG right caption="Audience watches *Ups and Downs* silent film at Old St. Andrews."
 
 The first film shown was produced by Vim Comedy Company, featuring Oliver "Babe" Hardy as "Shifty Mike," Bobby Burnes as "Pokes," Walter Stull as "Jabbs," and [Ethel Marie Burton](Q79860139) as "Ethel." [Bobby Burns](Q2907933) and [Walter Stull](Q7966222) were a well-known comedy duo that made up Pokes & Jabbs. They had 12 comedy shorts and, though not as popular as Laurel & Hardy, they were well acclaimed. In *Ups and Downs,* Ethel is Jabbs' beautiful daughter who is accosted by Shifty Mike as he caresses her and kisses her lips. Hearing Ethel scream, Jabbs comes to her rescue and manages to chase Shifty away. Pokes is Ethel's true love, though he isn't very wealthy. Shifty sets up a scheme to hire someone to try and obstruct Jabbs so he can get to his daughter. Pokes is the one to take up the offer, unknowingly working for his love's assailant. Pokes is ordered to throw an explosive through the window of the Jabbs’ residence. Antics ensue and the whole cast, minus Ethel, plays a game of hot potato with the live explosive that ends at Pokes' feet as it detonates. Shifty runs off to capture Ethel with Pokes hot on his tail. Shifty and Pokes get in a physical altercation that ends with Pokes being victorious and successfully rescuing his sweetheart in the end.
 
 ## Jolly Tars
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3971.JPG right caption="Audience watches *Jolly Tars* silent film at Old St. Andrews"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3971.JPG right caption="Audience watches *Jolly Tars* silent film at Old St. Andrews."
 
 The second film was produced by [Jaxon Film Corporation](Q18466827) and also starred Pokes and Jabbs as the main duo. The film revolves around two sailors noticing a county fair happening while on their ship. Looking through binoculars they see a few women hornpipe dancing and decide to pursue them. Once off the ship and into the fair they engage in a fair bit of classic gags, laughs, and hijinks bursting into the same hornpipe dance every few minutes as they search for the women. They encounter plenty of obstacles that serve as props for their light and funny adventure. Eventually, the ending is left ambiguous with a scene of a bear in a cage escaping and the audience can assume they continue their adventure off screen as the credits roll.
 
@@ -80,9 +82,9 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
 # Gallery
 
 .ve-carousel navigation aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introduces the Speaker Series event."
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy stands behind the refreshments table." fit=cover
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographs the event."
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-28%20123254.png "Jim Kerkhoff speaking on the film Industry in Jax."
+	- gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introducing the event."
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy behind the refreshments table." fit=cover
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographing the event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3928.png "Shawn Stermer meeting guests."
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes stands behind the refreshments table."
-
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes behind the refreshments table."
