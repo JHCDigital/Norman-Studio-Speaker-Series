@@ -1,7 +1,7 @@
 .ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum" gh:JHCDigital/Norman-Studio-Speaker-Series/image006.jpg width=80% full sticky
 
 ## Introducing the Speaker
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3957.JPG caption="Jim Kerkhoff" left width=100%
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3957.JPG caption="Jim Kerkhoff speaks to the audience." left width=100%
 
 Jim Kerkhoff is an Emmy-winning writer-producer-director, who moved here to Jacksonville from Washington, D.C., following his retirement in 2021. Being a life-long film historian, he immediately got involved with the [Norman Studios Silent Film Museum](https://normanstudios.org/) where he currently serves on its board of directors. Over the years, Jim has made numerous presentations detailing his research into film history at the Library of Congress, American Film Institute, and New York Public Library for the Performing Arts at Lincoln Center. He’s also contributed to many publications written by fellow film historians, and just recently authored his own book titled "[HOMETOWN TINSEL](https://www.split-reel.com/store/p23/HOMETOWN_TINSEL%3A_The_Life%2C_Career%2C_and_Friendships_of_Virginia_Karns.html#/)."  Jim is now researching a second book that explores silent film-era locations in and around Jacksonville, and is amazed at what he's discovering about our city as it's reflected in films made here more than a century ago.
  
@@ -10,7 +10,7 @@ Jim Kerkhoff is an Emmy-winning writer-producer-director, who moved here to Jack
 .ve-iframe style=height:500px src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vRCm0hmZIbJV8fLGtKn12dUAuvj83s33d6MGRFLjSARZ0HLBzOZBn8m6yrXnQiaJShgO_iqyDlawr69&font=Default&lang=en&initial_zoom=2&width=100%25&height=650 allowtransparency= frameborder=0 loading=eager 
 
 ## Winter Film Capital of the World
-.ve-media wc:Roseland_Hotel_1908.jpg left width=80% caption="Winter Studios of the Kalem Company on the grounds of the Roseland Hotel"
+.ve-media wc:Roseland_Hotel_1908.jpg left width=80% caption="Winter Studios of the Kalem Company on the grounds of the Roseland Hotel."
 
 Studios often had to stop production in the winter due to the snowy weather of New York and New Jersey, where most of the early motion picture industry was centralized. Film executives would use the time to vacation in Jacksonville for its ideal weather and proximity to the upper states. The most economic form of transportation between the states was by train at the time, so many of the film executives got to see the city's expansive and beautiful scenery as they traveled. In 1908, [Frank Marion,](Q3751863) who was a film executive for the [Kalem Company,](Q1722143) began to see the potential Jacksonville had as a filming location. He began working from the Roseland Hotel and shot his films throughout Jacksonville. More studios began moving down over the winter as they realized Jacksonville's capacity for film. Within 10 years of Kalem Company Studio’s beginning in Jacksonville, 30 more film companies followed. The cost of doing business was low and there was little red tape prohibiting anyone from setting up shop. Studios often filmed in public spaces, which made the city a production center as well as a live stage where residents could watch a little movie magic firsthand. With the silent film era in full swing, Jacksonville found itself a thriving filming location for several years, giving it the nickname of "Winter Film Capital of the World." As the motion picture industry developed during 1908, so too did Jacksonville's reputation as a popular film production city.
 
@@ -22,9 +22,9 @@ As the motion picture industry developed during 1908, so too did Jacksonville's 
 ## Troublesome Business
 Despite the initial welcoming attitude Jacksonville had for the studios, tensions soon grew between the film industry and the local community. Residents started to become frustrated with the constant commotion caused by film crews, who often created occupational hazards, disrupting the city with their loud sets and sometimes filming stunts without warning or permits. One incident involved a car chase scene where a vehicle was driven into the St. Johns River without notification that it was a movie stunt. It caused quite a stir in the local community and residents began having second thoughts about the film industry being stationed in Jacksonville. Moral opposition also played a role in the distaste for the studios, believing that having them there negatively affected the city's image. In 1917, [John W. Martin](Q888151) was elected mayor and stood on a platform that openly opposed the film industry. He began refusing permits for filming, sending a clear message that the city no longer welcomed the motion picture industry. Studios found themselves increasingly restricted and antagonized and many chose to leave rather than fight the hostile city policies and views. With the film studios becoming unwelcome in the city and the rising fervor for film studios to relocate to the west coast, Jacksonville's film history ended and has been largely overlooked.
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic-1.png left width=70% caption="Filming on the Ortega Bridge causes damage"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic-1.png left width=70% caption="Filming on the Ortega Bridge causes damage."
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic%202-1.png right width=70% caption="Bridge broken during filming on the Ortega Bridge"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic%202-1.png right width=70% caption="Bridge broken during filming on the Ortega Bridge."
 
 ## Norman Studios
 .ve-media wc:Black_Gold_poster.JPG left width=80% caption="Black Gold Poster, 1928"
@@ -51,7 +51,7 @@ Click on the markers to see what some of the most prevalent film studio location
 
 ## Ups and Downs
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3963.JPG right caption="Audience watches *Ups and Downs* silent film at Old St. Andrews"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3963.JPG right caption="Audience watches *Ups and Downs* silent film at Old St. Andrews.s"
 
 The first film shown was produced by Vim Comedy Company, featuring Oliver "Babe" Hardy as "Shifty Mike," Bobby Burnes as "Pokes," Walter Stull as "Jabbs," and [Ethel Marie Burton](Q79860139) as "Ethel." [Bobby Burns](Q2907933) and [Walter Stull](Q7966222) were a well-known comedy duo that made up Pokes & Jabbs. They had 12 comedy shorts and, though not as popular as Laurel & Hardy, they were well acclaimed. In *Ups and Downs,* Ethel is Jabbs' beautiful daughter who is accosted by Shifty Mike as he caresses her and kisses her lips. Hearing Ethel scream, Jabbs comes to her rescue and manages to chase Shifty away. Pokes is Ethel's true love, though he isn't very wealthy. Shifty sets up a scheme to hire someone to try and obstruct Jabbs so he can get to his daughter. Pokes is the one to take up the offer, unknowingly working for his love's assailant. Pokes is ordered to throw an explosive through the window of the Jabbs’ residence. Antics ensue and the whole cast, minus Ethel, plays a game of hot potato with the live explosive that ends at Pokes' feet as it detonates. Shifty runs off to capture Ethel with Pokes hot on his tail. Shifty and Pokes get in a physical altercation that ends with Pokes being victorious and successfully rescuing his sweetheart in the end.
 
@@ -63,14 +63,14 @@ The second film was produced by [Jaxon Film Corporation](Q18466827) and also sta
 # JHC Exhibit
 ## Curated by Shawn Stermer & Sherrard Ceglia
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3993.JPG right width=80% height=100px caption="Exhibit with film posters and other artifacts of Jacksonville's film history"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3993.JPG right width=80% height=100px caption="Exhibit with film posters and other artifacts of Jacksonville's film history."
 
 The Jacksonville History Center highlighted Norman Studios' presentation with an exhibit displayed during the event. On prominent display was an early 1900s film projector with accompanying film reels. There were several references to Norman Studio's most famous productions through the form of photographs and newspaper clippings as well as a promotional poster for "Black Gold." Along with those were three business cards relating to Norman Studios and Norman Laboratories. Two books that featured Norman Studio as well as prolific film figures were also on display, including *Richard E. Norman and Race Filmmaking* by Barbara Tepa Lupack and *The First Hollywood: Florida and the Golden Age of Silent Filmmaking* by Shawn C. Bean. Each item was carefully curated by the Jacksonville History Center's Research Archivist, Shawn Stermer. A sensitivity notice was posted as some of the artifacts held outdated verbiage.
 #
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left caption="Exhibit with newspaper clippings, books, and a film projector"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left caption="Exhibit with newspaper clippings, books, and a film projector."
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100% caption="Research Archivist Shawn Stermer stands proudly next to the exhibit"
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100% caption="Research Archivist Shawn Stermer stands proudly next to the exhibit."
 
 
 # Event Reception
@@ -80,9 +80,9 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
 # Gallery
 
 .ve-carousel navigation caption="Photos from the Speaker Series" aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introducing the event"
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy behind the refreshments table." fit=cover
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographing the event."
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introduces the Speaker Series event."
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy stands behind the refreshments table." fit=cover
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographs the event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3928.png "Shawn Stermer meeting guests."
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes behind the refreshments table."
+    - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes stands behind the refreshments table."
 
