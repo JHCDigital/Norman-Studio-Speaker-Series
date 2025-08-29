@@ -88,6 +88,7 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
     - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographing the event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3928.png "Shawn Stermer meeting guests."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes behind the refreshments table."
+	- gh:JHCDigital/Norman-Studio-Speaker-Series/20250806_180706.jpg "Jim Kerkoff presents to the audience."
 	
 	
 
