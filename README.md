@@ -82,6 +82,7 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
 # Gallery
 
 .ve-carousel navigation aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+
     - gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-28%20123254.png "Jim Kerkhoff speaking on the film Industry in Jax."
 	- gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introducing the event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy behind the refreshments table." fit=cover
