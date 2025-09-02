@@ -72,7 +72,7 @@ The Jacksonville History Center highlighted Norman Studios' presentation with an
 
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left caption="Exhibit with newspaper clippings, books, and a film projector."
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100% caption="Research Archivist Shawn Stermer stands proudly next to the exhibit."
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100% caption="Jacksonville History Center Research Archivist Shawn Stermer curated a display of silent film era materials to complement the program."
 
 
 # Event Reception
