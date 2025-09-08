@@ -82,12 +82,13 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
 # Gallery
 
 .ve-carousel navigation aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+	- gh:JHCDigital/Norman-Studio-Speaker-Series/20250806_180706.jpg "Jim Kerkoff presents to the audience."
 	- gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introducing the event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy behind the refreshments table." fit=cover
     - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographing the event."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3928.png "Shawn Stermer meeting guests."
     - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes behind the refreshments table."
-	- gh:JHCDigital/Norman-Studio-Speaker-Series/20250806_180706.jpg "Jim Kerkoff presents to the audience."
+	
 	
 	
 
