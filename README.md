@@ -1,4 +1,6 @@
-.ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum" gh:JHCDigital/Norman-Studio-Speaker-Series/image006.jpg width=80% full sticky
+.ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum" 
+  gh:JHCDigital/Norman-Studio-Speaker-Series/image006.jpg 
+  width=80% full sticky
 
 ## Introducing the Speaker
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3957.JPG caption="Jim Kerkhoff giving his presentation." left width=100%
