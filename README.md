@@ -1,6 +1,4 @@
-.ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum"
-https://raw.githubusercontent.com/JHCDigital/Norman-Studio-Speaker-Series/main/image006.jpg
-width=80% full sticky
+.ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum" https://raw.githubusercontent.com/JHCDigital/Norman-Studio-Speaker-Series/main/image006.jpg width=80% full sticky
 
 ## Introducing the Speaker
 .ve-media https://raw.githubusercontent.com/JHCDigital/Norman-Studio-Speaker-Series/main/IMG_3957.JPG
