@@ -1,3 +1,7 @@
+
+<img src="https://githubusercontent.com" width="100%" alt="Jim Kerkhoff giving his presentation">
+<p>Jim Kerkhoff giving his presentation.</p>
+
 .ve-header "Jacksonville History Center Presents: Speaker Series with Norman Studios Silent Film Museum" gh:JHCDigital/Norman-Studio-Speaker-Series/image006.jpg width=80% full sticky
 
 ## Introducing the Speaker
