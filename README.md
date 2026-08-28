@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b1c7422-2c6f-4d00-9a7a-5698b4f93465" alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/aa0a6374-d85b-4729-8b17-1973e9f35e3e" alt=" " width="40%">
 </p>
 <h1 align="center">The Jacksonville History Center Presents: Norman Studios Silent Film Museum</h1>
 
