@@ -97,10 +97,11 @@ The Jacksonville History Center was proud to host this Speaker Series and work w
 # Gallery
 <details>
   <summary>Click to view Gallery</summary>
-  <img src="https://github.com/user-attachments/assets/9b33f1e4-7b39-4c55-8d2a-67b243997297">
-  <img src="https://github.com/user-attachments/assets/2c1cf20f-0946-4024-a2d2-0569ff5abe08">
-    <img src="https://github.com/user-attachments/assets/2899027f-da14-4e3c-84a6-5210277f1c77">
-  
+  <img src="https://github.com/user-attachments/assets/321c2ec8-151e-47d4-9a77-5785194b1c69">
+  <img src="https://github.com/user-attachments/assets/718a4733-e015-47cc-869b-97acae38677f">
+    <img src="https://github.com/user-attachments/assets/55180d3f-e635-4943-affb-a18af84e31a1">
+   <img src="https://github.com/user-attachments/assets/4b39bdf5-f112-4698-b960-d128e26f57c5">
+	
 </details>
 
 	
