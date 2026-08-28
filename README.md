@@ -22,9 +22,21 @@ Studios often had to stop production in the winter due to the snowy weather of N
 ## Troublesome Business
 Despite the initial welcoming attitude Jacksonville had for the studios, tensions soon grew between the film industry and the local community. Residents started to become frustrated with the constant commotion caused by film crews, who often created occupational hazards, disrupting the city with their loud sets and sometimes filming stunts without warning or permits. One incident involved a car chase scene where a vehicle was driven into the St. Johns River without notification that it was a movie stunt. It caused quite a stir in the local community and residents began having second thoughts about the film industry being stationed in Jacksonville. Moral opposition also played a role in the distaste for the studios, believing that having them there negatively affected the city's image. In 1917, [John W. Martin](Q888151) was elected mayor and stood on a platform that openly opposed the film industry. He began refusing permits for filming, sending a clear message that the city no longer welcomed the motion picture industry. Studios found themselves increasingly restricted and antagonized and many chose to leave rather than fight the hostile city policies and views. With the film studios becoming unwelcome in the city and the rising fervor for film studios to relocate to the West Coast, Jacksonville's film history ended and has been largely overlooked.
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic-1.png left width=70% caption="Filming on the Ortega Bridge causes damage."
+<p align="center">
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/33e3ee96-2ec2-4b06-b54b-5d8f457f4f8d" /> 
+</p>
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/presentation%20pic%202-1.png right width=70% caption="Bridge broken during filming on the Ortega Bridge."
+<p align="center">
+Filming on the Ortega Bridge causes damage.
+</p>
+
+<p align="center">
+<img width="700" height="300" alt="Image" src=""https://github.com/user-attachments/assets/8ed78aac-1ea4-4028-88dc-e8af478551eb" /> 
+</p>
+
+<p align="center">
+Bridge broken during filming on the Ortega Bridge.
+</p>
 
 ## Norman Studios
 
