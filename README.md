@@ -64,27 +64,32 @@ Click on the markers to see what some of the most prevalent film studio location
 # Silent Films
 
 ## Ups and Downs
+<p align="center">
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/e0cef211-8137-4b0e-aa33-061754eca284" /> 
+</p>
 
-.ve-media gh:[JHCDigital/Norman-Studio-Speaker-Series/9cf40b86391a1a21813d9c43c8f15dd98bc7e5ef/IMG_3963.JPG) right caption="Audience watches *Ups and Downs* silent film at Old St. Andrews."
 
 The first film shown was produced by Vim Comedy Company, featuring Oliver "Babe" Hardy as "Shifty Mike," Bobby Burnes as "Pokes," Walter Stull as "Jabbs," and [Ethel Marie Burton](Q79860139) as "Ethel." [Bobby Burns](Q2907933) and [Walter Stull](Q7966222) were a well-known comedy duo that made up Pokes & Jabbs. They had 12 comedy shorts and, though not as popular as Laurel & Hardy, they were well acclaimed. In *Ups and Downs,* Ethel is Jabbs' beautiful daughter who is accosted by Shifty Mike as he caresses her and kisses her lips. Hearing Ethel scream, Jabbs comes to her rescue and manages to chase Shifty away. Pokes is Ethel's true love, though he isn't very wealthy. Shifty sets up a scheme to hire someone to try and obstruct Jabbs so he can get to his daughter. Pokes is the one to take up the offer, unknowingly working for his love's assailant. Pokes is ordered to throw an explosive through the window of the Jabbs’ residence. Antics ensue and the whole cast, minus Ethel, plays a game of hot potato with the live explosive that ends at Pokes' feet as it detonates. Shifty runs off to capture Ethel with Pokes hot on his tail. Shifty and Pokes get in a physical altercation that ends with Pokes being victorious and successfully rescuing his sweetheart in the end.
 
 ## Jolly Tars
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3971.JPG right caption="Audience watches *Jolly Tars* silent film at Old St. Andrews."
+<p align="center">
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/7bc88f37-954a-4882-a3a6-d658e543fe68" /> 
+</p>
 
 The second film was produced by [Jaxon Film Corporation](Q18466827) and also starred Pokes and Jabbs as the main duo. The film revolves around two sailors noticing a county fair happening while on their ship. Looking through binoculars they see a few women hornpipe dancing and decide to pursue them. Once off the ship and into the fair they engage in a fair bit of classic gags, laughs, and hijinks bursting into the same hornpipe dance every few minutes as they search for the women. They encounter plenty of obstacles that serve as props for their light and funny adventure. Eventually, the ending is left ambiguous with a scene of a bear in a cage escaping and the audience can assume they continue their adventure off screen as the credits roll.
 
 # JHC Exhibit
 ## Curated by Shawn Stermer & Sherrard Ceglia
-
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3993.JPG right width=80% height=100px caption="Exhibit with film posters and other artifacts of Jacksonville's film history."
-
 The Jacksonville History Center highlighted Norman Studios' presentation with an exhibit displayed during the event. On prominent display was an early 1900s film projector with accompanying film reels. There were several references to Norman Studio's most famous productions through the form of photographs and newspaper clippings as well as a promotional poster for "Black Gold." Along with those were three business cards relating to Norman Studios and Norman Laboratories. Two books that featured Norman Studio as well as prolific film figures were also on display, including *Richard E. Norman and Race Filmmaking* by Barbara Tepa Lupack and *The First Hollywood: Florida and the Golden Age of Silent Filmmaking* by Shawn C. Bean. Each item was carefully curated by the Jacksonville History Center's Research Archivist, Shawn Stermer. A sensitivity notice was posted as some of the artifacts held outdated verbiage.
-#
-
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left caption="Exhibit with newspaper clippings, books, and a film projector."
-
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100% caption="Jacksonville History Center Research Archivist Shawn Stermer curated a display of silent film era materials to complement the program."
+<details>
+  <summary>Click to view exhibit</summary>
+  <img src="https://github.com/user-attachments/assets/e107bb61-4261-4d59-bb94-ef600896b462">
+  <img src="https://github.com/user-attachments/assets/8b6660b9-22a4-43f8-91dc-ec99da9e74b6">
+    <img src="https://github.com/user-attachments/assets/2e319bde-727c-40ee-997a-340d0f5f6d9a">
+  <img src="https://github.com/user-attachments/assets/ce40806e-c30e-4b5d-95dc-354d6822a647">
+   <img src="https://github.com/user-attachments/assets/d9e93862-5a45-47f8-8d26-3b0b3bef04a5">
+  
+</details>
 
 
 # Event Reception
