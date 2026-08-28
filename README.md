@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/7b1c7422-2c6f-4d00-9a7a-5698b4f93465" alt=" " width="40%">
 </p>
 <h1 align="center">The Jacksonville History Center Presents: Norman Studios Silent Film Museum</h1>
 
@@ -11,11 +11,11 @@ Jim Kerkhoff is an Emmy-winning writer-producer-director, who moved here to Jack
 .ve-iframe style=height:500px src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vRCm0hmZIbJV8fLGtKn12dUAuvj83s33d6MGRFLjSARZ0HLBzOZBn8m6yrXnQiaJShgO_iqyDlawr69&font=Default&lang=en&initial_zoom=2&width=100%25&height=650 allowtransparency= frameborder=0 loading=eager 
 
 ## Winter Film Capital of the World
-.ve-media wc:Roseland_Hotel_1908.jpg left width=80% caption="Winter Studios of the Kalem Company on the grounds of the Roseland Hotel."
-
 Studios often had to stop production in the winter due to the snowy weather of New York and New Jersey, where most of the early motion picture industry was centralized. Film executives would use the time to vacation in Jacksonville for its ideal weather and proximity to the upper states. The most economic form of transportation between the states was by train at the time, so many of the film executives got to see the city's expansive and beautiful scenery as they traveled. In 1908, [Frank Marion,](Q3751863) who was a film executive for the [Kalem Company,](Q1722143) began to see the potential Jacksonville had as a filming location. He began working from the Roseland Hotel and shot his films throughout Jacksonville. More studios began moving down over the winter as they realized Jacksonville's capacity for film. Within 10 years of Kalem Company Studio’s beginning in Jacksonville, 30 more film companies followed. The cost of doing business was low and there was little red tape prohibiting anyone from setting up shop. Studios often filmed in public spaces, which made the city a production center as well as a live stage where residents could watch a little movie magic firsthand. With the silent film era in full swing, Jacksonville found itself a thriving filming location for several years, giving it the nickname of "Winter Film Capital of the World." As the motion picture industry developed during 1908, so too did Jacksonville's reputation as a popular film production city.
 ## Film in Jax
-.ve-media wc:Pearl_Bailey,_Budd_Ross,_%22Babe%22_Oliver_Hardy_and_Ethel_Burton-_Actors_and_actresses_in_Jacksonville%27s_motion_picture_industry_(FloridaMemory.com).jpg right width=80%
+<p align="center">
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/d926825e-fabb-4d9d-8922-ee93686b2223" /> 
+</p>
 
 [Sigmund Lubin](Q593145) was the proud founder of the [Lubin Manufacturing Company](Q116439) in Philadelphia, which was one of the earliest and most ambitious movie studios in America. Lubin also saw Jacksonville's potential and set up another location there to take advantage of the growing film presence. The company was successful for a few years, however, as the popularity of the city rose so did the competition. The Jacksonville Lubin studio was absorbed into the [Vim Comedy Company](Q3559330). One popular celebrity who previously worked for Lubin was [Oliver "Babe" Hardy](Q72911). Before Hardy teamed up with Stan Laurel to become half of the [Laurel & Hardy](Q33497) duo, he was often cast into two archetypes. One of them being the "heavy," which was typically a physically imposing villain. The other one being a "wise guy" which was a counter to another archetype, the "fall guy." After the Laurel & Hardy duo came together they had a special form of comedy called slapstick, which featured a lot of physical comedy and "tit-for-tat" fights. They became legendary, often cited as the inspiration for comedy acts and other forms of media later on. Hardy was just one celebrity who found his start during the short golden filmmaking period of Jacksonville, as it only lasted until the early 1920s.
 
