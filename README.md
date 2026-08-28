@@ -30,20 +30,7 @@ Despite the initial welcoming attitude Jacksonville had for the studios, tension
 Filming on the Ortega Bridge causes damage.
 </p>
 
-<p align="center">
-<img width="700" height="300" alt="Image" src=""https://github.com/user-attachments/assets/8ed78aac-1ea4-4028-88dc-e8af478551eb" /> 
-</p>
-
-<p align="center">
-Bridge broken during filming on the Ortega Bridge.
-</p>
-
 ## Norman Studios
-
-.ve-carousel navigation aspect-ratio=8/8 fit=contain orientation=horizonal slides-per-page=1 slides-per-move=1 left
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/flying%20ace%20-2.jpg  "The Flying Ace Poster, 1926."
-	- wc:Black_Gold_poster.JPG caption="Black Gold Poster, 1928"
-
 The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) years after the film industry's heyday in Jacksonville. Norman began producing silent films that starred all-Black casts in positive, empowered roles. This approach directly contrasted with the film standard of casting Black actors as side characters or stereotypes of the Jim Crow Era. Because it was such a tumultuous time, the impact of his work shaped not only societal expectations but also standards for the future film industry. Norman Studios contributed to the city’s cultural identity and carved out a prolific place in cinematic history. He came out with several shorts and eight films, most notably ["The Flying Ace"](https://en.wikisource.org/wiki/The_Flying_Ace)  and "Black Gold." Today, the original location of Norman Studios has been transformed into the Norman Studios Silent Film Museum and remains the only standing studio from Jacksonville's early filmmaking period. Now, the museum is an all-volunteer nonprofit organization that continually strives to preserve, present and promote the history of silent movies and race films in Northeast Florida.
 
 ## Urban Expansion
