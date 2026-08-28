@@ -83,11 +83,9 @@ The second film was produced by [Jaxon Film Corporation](Q18466827) and also sta
 The Jacksonville History Center highlighted Norman Studios' presentation with an exhibit displayed during the event. On prominent display was an early 1900s film projector with accompanying film reels. There were several references to Norman Studio's most famous productions through the form of photographs and newspaper clippings as well as a promotional poster for "Black Gold." Along with those were three business cards relating to Norman Studios and Norman Laboratories. Two books that featured Norman Studio as well as prolific film figures were also on display, including *Richard E. Norman and Race Filmmaking* by Barbara Tepa Lupack and *The First Hollywood: Florida and the Golden Age of Silent Filmmaking* by Shawn C. Bean. Each item was carefully curated by the Jacksonville History Center's Research Archivist, Shawn Stermer. A sensitivity notice was posted as some of the artifacts held outdated verbiage.
 <details>
   <summary>Click to view exhibit</summary>
-  <img src="https://github.com/user-attachments/assets/e107bb61-4261-4d59-bb94-ef600896b462">
-  <img src="https://github.com/user-attachments/assets/8b6660b9-22a4-43f8-91dc-ec99da9e74b6">
-    <img src="https://github.com/user-attachments/assets/2e319bde-727c-40ee-997a-340d0f5f6d9a">
-  <img src="https://github.com/user-attachments/assets/ce40806e-c30e-4b5d-95dc-354d6822a647">
-   <img src="https://github.com/user-attachments/assets/d9e93862-5a45-47f8-8d26-3b0b3bef04a5">
+  <img src="https://github.com/user-attachments/assets/9b33f1e4-7b39-4c55-8d2a-67b243997297">
+  <img src="https://github.com/user-attachments/assets/2c1cf20f-0946-4024-a2d2-0569ff5abe08">
+    <img src="https://github.com/user-attachments/assets/2899027f-da14-4e3c-84a6-5210277f1c77">
   
 </details>
 
@@ -97,14 +95,14 @@ The Jacksonville History Center highlighted Norman Studios' presentation with an
 The Jacksonville History Center was proud to host this Speaker Series and work with the Norman Studios Silent Film Museum. On August 6, 2025, over 65 guests attended as Jim Kerkhoff captivated the audience with the history of the motion picture industry and its involvement in Jacksonville. The two comedy shorts shown created ripples of laughter in the audience. It was held in the Old St. Andrew’s Church, which made a stunning backdrop for the event. The Merrill House Museum Head Docent Nancy Gandy and Board Chair Kris Barnes served a beautiful arrangement of refreshments. Coming away from the food table, guests were welcome to enjoy the exhibit and chat with one of its curators, Research Archivist Shawn Stermer. Overall, this Speaker Series was a resounding success.
 
 # Gallery
+<details>
+  <summary>Click to view Gallery</summary>
+  <img src="https://github.com/user-attachments/assets/9b33f1e4-7b39-4c55-8d2a-67b243997297">
+  <img src="https://github.com/user-attachments/assets/2c1cf20f-0946-4024-a2d2-0569ff5abe08">
+    <img src="https://github.com/user-attachments/assets/2899027f-da14-4e3c-84a6-5210277f1c77">
+  
+</details>
 
-.ve-carousel navigation aspect-ratio=11/8 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
-	- gh:JHCDigital/Norman-Studio-Speaker-Series/20250806_180706.jpg "Jim Kerkoff presents to the audience."
-	- gh:JHCDigital/Norman-Studio-Speaker-Series/C0034T01.JPG  "Dr. Alan Bliss introducing the event."
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG "Nancy Gandy behind the refreshments table." fit=cover
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/DSC00004.JPG "Erin Mustard photographing the event."
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3928.png "Shawn Stermer meeting guests."
-    - gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3937.png "Kris Barnes behind the refreshments table."
 	
 	
 	
